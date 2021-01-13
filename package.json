@@ -1,0 +1,26 @@
+{
+  "name": "ts-ensure",
+  "version": "1.0.0",
+  "description": "Modern assert library for TS",
+  "main": "index.js",
+  "author": "Marek Kirejczyk",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc --build",
+    "test": "mocha",
+    "lint": "eslint './{src,test}/**/*.{ts,tsx}'"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.14",
+    "@types/mocha": "^8.2.0",
+    "@typescript-eslint/eslint-plugin": "^4.13.0",
+    "@typescript-eslint/parser": "^4.13.0",
+    "chai": "^4.2.0",
+    "eslint": "^7.17.0",
+    "mocha": "^8.2.1",
+    "prettier": "^2.2.1",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  }
+}
