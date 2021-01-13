@@ -2,7 +2,7 @@
   "name": "ts-ensure",
   "version": "1.0.0",
   "description": "Modern assert library for TS",
-  "main": "index.js",
+  "main": "dist/ensure.js",
   "author": "Marek Kirejczyk",
   "license": "MIT",
   "private": false,
