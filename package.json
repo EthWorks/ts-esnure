@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Modern assert library for TS",
   "main": "dist/ensure.js",
-  "author": "Marek Kirejczyk",
+  "author": "Marek Kirejczyk <marek@ehtworks.io>",
   "license": "MIT",
   "private": false,
   "scripts": {
